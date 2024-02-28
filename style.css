@@ -79,7 +79,7 @@ body {
     margin: 0;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
-    font-size: clamp(200px, 100px,10px);
+    font-size: clamp(120px, 100px,10px);
     line-height: 1;
     font-weight: normal;
     font-style: normal;
